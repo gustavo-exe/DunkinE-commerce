@@ -20,7 +20,7 @@ Construido con foundation una pagina de comercio electronico inspirada en Dunkin
 ```bash
 npm install
 ```
-Y con el siguiente comando iniciamos el compilador sass.
+3. Iniciamos el compilador sass, para estar trabajando y los cambios se vean reflejados.
 ```bash
 npm start
 ```
